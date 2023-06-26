@@ -3,21 +3,13 @@
 # finaceApp
 
 
-## Prerequisites
-To run this project in the development mode, you'll need to have a basic environment to run an Expo-App
--VS Code installed
-- Install the CLI `npm i -g expo-cli`
-- Download the "Expo Client" app from the Play Store or App Store.
-- Same Wi-Fi network Access on client app as on your machine
-
-
 ## Step By Step Guide
 
 ## Installing
 
 ## You can simply clone the project
 ```
-$ git clone < project-url.git >
+$ git clone < project-url.git https://github.com/AmitD2398/nordFinance.git >
 ```
 ​
 -installing dependencies ....
@@ -27,7 +19,6 @@ $ npm install
 
 ## Running
 
-Expo Client supports running any project that doesn't have custom native modules added.
 
 With all dependencies installed and the environment properly configured, you can now run the app.
 ​- Start your project 
@@ -51,11 +42,6 @@ in root terminal
 $ cd android
 $ ./gradlew assembleRelease
 ```
-
-
-## Features
-- Native project ready to be built on to your device.
-- Support for unimodules and auto-linking.
 
 
 ## Support and Contact
